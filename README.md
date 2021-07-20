@@ -22,7 +22,7 @@ Python
 PySimpleGUI
 
 ## ツールの場所
-wc/dist/main  
+str_check-main/dist/main  
 ダブルクリックするとツールが起動します。
 
 ## 実際に例えば下記のサンプル文で試してみるとします。
