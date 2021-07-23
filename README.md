@@ -16,10 +16,10 @@ WEB(SEO)ライティングに役立つと思うツールを作りました。
   
 
 ## 言語
-Python
+Python 3.8.8
 
 ## ライブラリ
-PySimpleGUI
+PySimpleGUI 4.45.0
 
 ## ツールの場所
 str_check-main/dist/main  
